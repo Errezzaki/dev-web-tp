@@ -592,24 +592,15 @@ video {
   margin: auto;
 }
 
-.mb-3 {
-  margin-bottom: 0.75rem;
+.flex {
+  display: flex;
 }
 
-.me-2 {
-  margin-inline-end: 0.5rem;
-}
-
-.mt-5 {
-  margin-top: 1.25rem;
+.flex-row {
+  flex-direction: row;
 }
 
 .bg-sky-700 {
   --tw-bg-opacity: 1;
   background-color: rgb(3 105 161 / var(--tw-bg-opacity));
-}
-
-.bg-sky-400 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(56 189 248 / var(--tw-bg-opacity));
 }
