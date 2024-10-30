@@ -5,7 +5,8 @@ module.exports = {
   theme: {
     extend: {
         screens : {
-          'tablet':'776px',
+          'tablet':'835px',
+        
         },
       colors :{
           'mdark-violet' :'#061A40' ,
