@@ -1,5 +1,11 @@
-var map = L.map('map').setView([51.505, -0.09], 13);
+var map = L.map('map').setView([33.54708735862658, -7.649987977356777], 13);
 
-L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-}).addTo(map);
+
+googleStreets = L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}',{
+    maxZoom: 20,
+    subdomains:['mt0','mt1','mt2','mt3']
+ });
+ googleStreets.addTo(map);
+
+L.marker([33.54708735862658, -7.649987977356777]).addTo(map)
+    .bindPopup('Ici est LEHTP').openPopup();
