@@ -1,0 +1,35 @@
+[33mcommit ebb81c866b413fe91c1a1b628be573200caa36aa[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: AYOUB <demo65575@gmail.com>
+Date:   Wed Oct 30 23:39:07 2024 +0100
+
+    fixing the problem
+
+[33mcommit ad5f268fe5fe1f03a69e8e2a275321ccad82bc08[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: AYOUB <demo65575@gmail.com>
+Date:   Wed Oct 30 04:54:21 2024 +0100
+
+    removing the footer
+
+[33mcommit 18b7c3d499de4d48d13439297c5c6a051b27a1d5[m
+Author: AYOUB <demo65575@gmail.com>
+Date:   Tue Oct 29 02:13:27 2024 +0100
+
+    change to work with flowbite
+
+[33mcommit 8edcc7c7a67b3a0b71a2e1fce90bec825bd0b62f[m
+Author: AYOUB <demo65575@gmail.com>
+Date:   Sun Oct 27 21:36:51 2024 +0100
+
+    finish the nav bar
+
+[33mcommit 0a7ac9d905beae911c49f32396e7db6ca420bc7f[m
+Author: Errezzaki <demo65575@gmail.com>
+Date:   Sun Oct 27 17:46:27 2024 +0100
+
+    add nav bar
+
+[33mcommit da244459e1a99c4c36e57de806c91b72c577aa21[m
+Author: AYOUB <demo65575@gmail.com>
+Date:   Sun Oct 27 14:55:43 2024 +0100
+
+    initial commit

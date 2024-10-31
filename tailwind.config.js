@@ -9,7 +9,10 @@ module.exports = {
       'tablet' : '776px',
     },
     extend: {
-
+        screens : {
+          'tablet':'835px',
+        
+        },
       colors :{
           'mdark-violet' :'#061A40' ,
           'msmoht-green':'#0e7c7b',
